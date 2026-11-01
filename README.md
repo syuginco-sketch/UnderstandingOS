@@ -1,3 +1,21 @@
+Most security systems try to automate decisions.
+
+CLOCK separates:
+
+Recognition
+Preservation
+Memory
+Coordination
+Authority
+
+to preserve operational understanding.
+
+DiverGuard recognizes.
+CIRM preserves.
+Clark remembers.
+Spectrum coordinates.
+Humans decide.
+
 # UnderstandingOS
 
 > An architecture for operational understanding.
