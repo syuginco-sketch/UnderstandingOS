@@ -496,6 +496,9 @@ Implemented:
 Validation:
 - 26 unit tests passed
 
+- Understanding is treated as a first-class system output.
+- Future phases introduce behavior modeling, relationship-driven context, and investigative understanding.
+
 Roadmap:
 - Phase 1 Observation
 - Phase 2 Classification
